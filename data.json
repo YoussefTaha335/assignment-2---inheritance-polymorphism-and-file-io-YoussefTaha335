@@ -1,0 +1,126 @@
+{
+    "libraryClass": {
+        "users": [
+            {
+                "name": "ro",
+                "ID": "1",
+                "email": "1",
+                "paswd": "1",
+                "socialSecurityNumber": "",
+                "address": "",
+                "creditCard": "1",
+                "type": "Librarian"
+            },
+            {
+                "name": "student",
+                "ID": "1",
+                "email": "1",
+                "paswd": "1",
+                "socialSecurityNumber": "",
+                "address": "",
+                "creditCard": "1",
+                "type": "Student"
+            },
+            {
+                "name": "y",
+                "ID": "5",
+                "email": "hy",
+                "paswd": "y",
+                "socialSecurityNumber": "",
+                "address": "",
+                "creditCard": "y",
+                "type": "Student"
+            }
+        ],
+        "books": [
+            {
+                "title": "book1",
+                "author": "1",
+                "isbn": "1",
+                "noOfCps": 1,
+                "physOnl": "2",
+                "loanPer": 0,
+                "gracePer": 0,
+                "extensionNum": 0
+            }
+        ]
+    },
+    "schoolLibrary": {
+        "registered": [
+            {
+                "name": "ro",
+                "ID": "1",
+                "email": "1",
+                "paswd": "1",
+                "socialSecurityNumber": "",
+                "address": "",
+                "creditCard": "1",
+                "type": "Librarian"
+            },
+            {
+                "name": "student",
+                "ID": "1",
+                "email": "1",
+                "paswd": "1",
+                "socialSecurityNumber": "",
+                "address": "",
+                "creditCard": "1",
+                "type": "Student"
+            }
+        ],
+        "restricted": [],
+        "books": [
+            {
+                "title": "book1",
+                "author": "1",
+                "isbn": "1",
+                "noOfCps": -2,
+                "physOnl": "1",
+                "loanPer": 0,
+                "gracePer": 0,
+                "extensionNum": 0
+            }
+        ]
+    },
+    "municipalLibrary": {
+        "registered": [],
+        "restricted": [],
+        "books": []
+    },
+    "nationalLibrary": {
+        "registered": [
+            {
+                "name": "y",
+                "ID": "5",
+                "email": "hy",
+                "paswd": "y",
+                "socialSecurityNumber": "",
+                "address": "",
+                "creditCard": "y",
+                "type": "Student"
+            },
+            {
+                "name": "y",
+                "ID": "5",
+                "email": "hy",
+                "paswd": "y",
+                "socialSecurityNumber": "",
+                "address": "",
+                "creditCard": "y",
+                "type": "Student"
+            },
+            {
+                "name": "y",
+                "ID": "5",
+                "email": "hy",
+                "paswd": "y",
+                "socialSecurityNumber": "",
+                "address": "",
+                "creditCard": "y",
+                "type": "Student"
+            }
+        ],
+        "restricted": [],
+        "books": []
+    }
+}
