@@ -2,16 +2,6 @@
     "libraryClass": {
         "users": [
             {
-                "name": "ro",
-                "ID": "1",
-                "email": "1",
-                "paswd": "1",
-                "socialSecurityNumber": "",
-                "address": "",
-                "creditCard": "1",
-                "type": "Librarian"
-            },
-            {
                 "name": "student",
                 "ID": "1",
                 "email": "1",
@@ -34,7 +24,7 @@
         ],
         "books": [
             {
-                "title": "book1",
+                "title": "bookA",
                 "author": "1",
                 "isbn": "1",
                 "noOfCps": 1,
@@ -47,16 +37,6 @@
     },
     "schoolLibrary": {
         "registered": [
-            {
-                "name": "ro",
-                "ID": "1",
-                "email": "1",
-                "paswd": "1",
-                "socialSecurityNumber": "",
-                "address": "",
-                "creditCard": "1",
-                "type": "Librarian"
-            },
             {
                 "name": "student",
                 "ID": "1",
@@ -71,7 +51,7 @@
         "restricted": [],
         "books": [
             {
-                "title": "book1",
+                "title": "bookA",
                 "author": "1",
                 "isbn": "1",
                 "noOfCps": -2,
